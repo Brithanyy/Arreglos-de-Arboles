@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698428594 source:c:\users\brisa ortiz\onedrive\escritorio\laboratorio ii\tp 6.2 estructuras compuestas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
